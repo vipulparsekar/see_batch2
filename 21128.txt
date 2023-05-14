@@ -1,0 +1,10 @@
+
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a maven project named "CTBatchTwo". Add required dependencies.			(6)
+	Create a class name “AddArray”. Write a method to add elements of two arrays, 
+	and write a unit test for the same.							
+3.	File one bug for any website of your choice.						(2)
+4. 	Write 3 user stories for 'Blood Bank management system'. Write in MS Doc.		(3)
+5.	Save your progress in a local repository.						(1)
+6.	Create a new branch named your roll number. eg. 19000.					(0.5)
+7.	Push the newly create branch to the remote repo.					(0.5)
