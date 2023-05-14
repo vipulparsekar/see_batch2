@@ -1,0 +1,7 @@
+
+1.	Demonstrate the working of life cycle hooks in a unit test.				(3)
+2.	Create a burndown chart for a sprint of 3 weeks having 6 user stories/artifacts.	(6)
+3.	File a bug for any website of your choice.						(2)
+4.	Save your progress in a local repository.						(1)										
+5.	Create a new branch named your roll number. eg. 19000.					(0.5)
+6.	Push the newly create branch to the remote repo.					(0.5)
