@@ -1,0 +1,10 @@
+
+1.	Use recently created directory as a workspace for eclipse and git.
+2.	Show how a conflict occurs in a git repository. Demonstrate how to resolve the conflict. Show it in a local repo.		(4)
+3.	Create a maven project named “CTBatchTwo”.  Add required dependencies. Create a class named “Cylinder”. 
+	In this class write a parameterized method to calculate volume of a cylinder. Write a unit test for the same. 
+	Generate javadoc. (volume = 3.14 * r * r * h).											(4)
+4.	Write 3 user stories for E-Commerce Website(in word document).								(3)
+5.	Save your progress in a local repository.											(1)										
+6.	Create a new branch named your roll number. eg. 19000.										(0.5)
+7.	Push the newly create branch to the remote repo.										(0.5)
